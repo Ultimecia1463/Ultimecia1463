@@ -3,7 +3,7 @@
   <img src="https://streak-stats.demolab.com?user=Ultimecia1463&locale=en&mode=daily&theme=jolly&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" />
 </div>
 
-<img align="right" height="200" src="https://media1.tenor.com/m/jKf47se2ud8AAAAd/zoro-zoro-one-piece.gif"  />
+<img align="right" height="170" src="https://media1.tenor.com/m/jKf47se2ud8AAAAd/zoro-zoro-one-piece.gif"  />
 
 ###
 
