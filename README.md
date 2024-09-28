@@ -28,9 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
 </div>
-
 ###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ansh-sharma-799073294" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
@@ -51,21 +49,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
 <img src="https://raw.githubusercontent.com/Ultimecia1463/Ultimecia1463/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" src="https://profile-counter.glitch.me/Ultimecia1463/count.svg?"  />
-
-###
-
 <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=wnkrgi8e68529s43nkcypgs3c">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wnkrgi8e68529s43nkcypgs3c&count=2" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
