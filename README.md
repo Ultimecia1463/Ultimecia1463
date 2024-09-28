@@ -46,6 +46,9 @@
   </a>
 </div>
 <img src="https://raw.githubusercontent.com/Ultimecia1463/Ultimecia1463/output/snake.svg" alt="Snake animation" />
+
+## Views
+
 <img align="left" src="https://profile-counter.glitch.me/Ultimecia1463/count.svg?"  />
 <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=wnkrgi8e68529s43nkcypgs3c">
