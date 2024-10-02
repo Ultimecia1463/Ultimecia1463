@@ -44,6 +44,9 @@
   <a href="https://t.me/ultimecia_1463" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="telegram logo"  />
   </a>
+  <a href="https://dev.to/ansh_sharma" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="Dev.to logo"  />
+  </a>
 </div>
 <img src="https://raw.githubusercontent.com/Ultimecia1463/Ultimecia1463/output/snake.svg" alt="Snake animation" />
 
