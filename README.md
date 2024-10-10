@@ -58,3 +58,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wnkrgi8e68529s43nkcypgs3c&count=2" alt="Spotify recently played"  />
   </a>
 </div>
+
+[![An image of @ultimecia1463's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ultimecia1463)](https://holopin.io/@ultimecia1463)
