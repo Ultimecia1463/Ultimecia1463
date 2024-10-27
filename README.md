@@ -1,11 +1,11 @@
-<!-- Centralize the stats -->
+
+---
 <div align="center" style="display: flex; flex-direction: row; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ultimecia1463&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=Ultimecia1463&locale=en&mode=daily&theme=jolly&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" />
 </div>
 
-<!-- Right-aligned Zoro GIF -->
-<img align="right" height="170" src="https://media1.tenor.com/m/jKf47se2ud8AAAAd/zoro-zoro-one-piece.gif" />
+---
 
 <!-- Icons with a grid layout -->
 <div align="center">
@@ -55,6 +55,8 @@
   </a>
 </div>
 
+---
+
 <!-- Snake animation -->
 ![Snake animation](https://raw.githubusercontent.com/Ultimecia1463/Ultimecia1463/output/snake.svg)
 
@@ -62,12 +64,18 @@
 
 <img align="left" src="https://profile-counter.glitch.me/Ultimecia1463/count.svg?"  />
 
-<!-- Spotify Section -->
-<div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=wnkrgi8e68529s43nkcypgs3c">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wnkrgi8e68529s43nkcypgs3c&count=2" alt="Spotify recently played" />
-  </a>
-</div>
+---
 
 <!-- Holopin badges -->
 [![An image of @ultimecia1463's Holopin badges](https://holopin.me/ultimecia1463)](https://holopin.io/@ultimecia1463)
+
+---
+
+
+<p align="center">
+  <img height="600" src="https://media1.tenor.com/m/jKf47se2ud8AAAAd/zoro-zoro-one-piece.gif" alt="Zoro from One Piece">
+</p>
+
+
+
+---
