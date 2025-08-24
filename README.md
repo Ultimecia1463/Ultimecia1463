@@ -70,12 +70,3 @@
 [![An image of @ultimecia1463's Holopin badges](https://holopin.me/ultimecia1463)](https://holopin.io/@ultimecia1463)
 
 ---
-
-
-<p align="center">
-  <img height="600" src="https://media1.tenor.com/m/jKf47se2ud8AAAAd/zoro-zoro-one-piece.gif" alt="Zoro from One Piece">
-</p>
-
-
-
----
